@@ -1,0 +1,6 @@
+@model PolatPortfolio.Models.BlogPost
+@{ ViewData["Title"] = Model.Title; }
+
+<h2>@Model.Title</h2>
+<p>@Model.Content</p>
+<small>@Model.Date.ToString()</small>

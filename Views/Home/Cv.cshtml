@@ -1,0 +1,23 @@
+@model PolatPortfolio.Models.CVModel
+@{ ViewData["Title"] = "CV"; }
+
+<h2>Özgeçmiş</h2>
+<p><strong>@Model.FullName</strong></p>
+<p>@Model.Summary</p>
+
+<h4>Yetenekler</h4>
+<ul>
+@foreach(var s in Model.Skills) { <li>@s</li> }
+</ul>
+
+<h4>Eğitim</h4>
+<ul>
+@foreach(var e in Model.Education) { <li>@e</li> }
+</ul>
+
+<h4>Deneyim</h4>
+<ul>
+@foreach(var ex in Model.Experience) { <li>@ex</li> }
+</ul>
+
+<a class="btn btn-success" href="/CV/DownloadPdf">📄 CV'yi PDF İndir</a>
