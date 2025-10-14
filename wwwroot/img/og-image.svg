@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0078ff"/>
+      <stop offset="100%" stop-color="#00d4ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g font-family="Roboto, Arial, sans-serif" fill="#ffffff">
+    <text x="60" y="160" font-size="60" opacity="0.9">Mehmet Polat Maç</text>
+    <text x="60" y="250" font-size="100" font-weight="700">Polat Portfolio</text>
+    <text x="60" y="330" font-size="40" opacity="0.9">ASP.NET Core MVC • JavaScript • Modern Web</text>
+    <rect x="60" y="380" rx="12" ry="12" width="460" height="70" fill="rgba(255,255,255,0.2)"/>
+    <text x="90" y="428" font-size="36">5510-rgb.github.io/polat-portfolio</text>
+  </g>
+</svg>

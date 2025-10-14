@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://5510-rgb.github.io/polat-portfolio/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://5510-rgb.github.io/polat-portfolio/Home/About</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://5510-rgb.github.io/polat-portfolio/Projects</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://5510-rgb.github.io/polat-portfolio/Blog</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://5510-rgb.github.io/polat-portfolio/Contact</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://5510-rgb.github.io/polat-portfolio/Home/Cv</loc>
+    <priority>0.6</priority>
+  </url>
+</urlset>

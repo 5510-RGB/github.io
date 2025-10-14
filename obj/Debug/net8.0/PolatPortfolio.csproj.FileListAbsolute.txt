@@ -47,3 +47,8 @@ C:\Users\mehme\OneDrive\Masaüstü\PolatPortfolio\obj\Debug\net8.0\PolatPortfoli
 C:\Users\mehme\OneDrive\Masaüstü\PolatPortfolio\obj\Debug\net8.0\PolatPortfolio.genruntimeconfig.cache
 C:\Users\mehme\OneDrive\Masaüstü\PolatPortfolio\obj\Debug\net8.0\ref\PolatPortfolio.dll
 C:\Users\mehme\OneDrive\Masaüstü\PolatPortfolio\obj\Debug\net8.0\PolatPortfolio.sourcelink.json
+C:\Users\mehme\OneDrive\Masaüstü\PolatPortfolio\bin\Debug\net8.0\publish\web.config
+C:\Users\mehme\OneDrive\Masaüstü\PolatPortfolio\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\mehme\OneDrive\Masaüstü\PolatPortfolio\bin\Debug\net8.0\publish\PolatPortfolio.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\PolatPortfolio\bin\Debug\net8.0\publish\PolatPortfolio.runtimeconfig.json
+C:\Users\mehme\OneDrive\Masaüstü\PolatPortfolio\bin\Debug\net8.0\publish\PolatPortfolio.staticwebassets.endpoints.json

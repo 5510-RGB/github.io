@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://5510-rgb.github.io/polat-portfolio/sitemap.xml
