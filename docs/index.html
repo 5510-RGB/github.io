@@ -106,9 +106,8 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8">
                     <div class="contact-form" data-aos="fade-up">
-                        <form name="contact" method="POST" data-netlify="true">
+                        <form name="contact" method="POST" netlify action="/tesekkurler.html">
     <input type="hidden" name="form-name" value="contact" />
-    <input type="hidden" name="next" value="/tesekkurler.html" />
                             <div class="row">
                                 <div class="col-md-6 mb-3"><input type="text" name="name" class="form-control" placeholder="Adınız" required></div>
                                 <div class="col-md-6 mb-3"><input type="email" name="email" class="form-control" placeholder="E-posta" required></div>
@@ -122,6 +121,13 @@
             </div>
         </div>
     </section>
+
+    <form name="contact" netlify netlify-honeypot="bot-field" hidden>
+      <input type="text" name="name" />
+      <input type="email" name="email" />
+      <input type="text" name="subject" />
+      <textarea name="message"></textarea>
+    </form>
 
     <footer>
         <div class="container">
