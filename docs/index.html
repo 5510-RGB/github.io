@@ -106,13 +106,14 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8">
                     <div class="contact-form" data-aos="fade-up">
-                        <form>
+                        <form name="contact" method="POST" data-netlify="true">
+    <input type="hidden" name="form-name" value="contact" />
                             <div class="row">
-                                <div class="col-md-6 mb-3"><input type="text" class="form-control" placeholder="Adınız" required></div>
-                                <div class="col-md-6 mb-3"><input type="email" class="form-control" placeholder="E-posta" required></div>
+                                <div class="col-md-6 mb-3"><input type="text" name="name" class="form-control" placeholder="Adınız" required></div>
+                                <div class="col-md-6 mb-3"><input type="email" name="email" class="form-control" placeholder="E-posta" required></div>
                             </div>
-                            <div class="mb-3"><input type="text" class="form-control" placeholder="Konu" required></div>
-                            <div class="mb-3"><textarea class="form-control" rows="5" placeholder="Mesajınız" required></textarea></div>
+                            <div class="mb-3"><input type="text" name="subject" class="form-control" placeholder="Konu" required></div>
+                            <div class="mb-3"><textarea name="message" class="form-control" rows="5" placeholder="Mesajınız" required></textarea></div>
                             <div class="text-center"><button type="submit" class="btn-hero"><i class="fas fa-paper-plane me-2"></i>Mesaj Gönder</button></div>
                         </form>
                     </div>
