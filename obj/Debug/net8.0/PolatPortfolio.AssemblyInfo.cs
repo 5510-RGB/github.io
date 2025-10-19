@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PolatPortfolio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a0d04d75358f1f228eb98fc6a16fd71a0bd4aa5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b9058fae2fcccd10dfc5b9df272464654553aa8")]
 [assembly: System.Reflection.AssemblyProductAttribute("PolatPortfolio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PolatPortfolio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
