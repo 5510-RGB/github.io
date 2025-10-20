@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "public": true,
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "builds": [
+    { "src": "index.html", "use": "@vercel/static" },
+    { "src": "tesekkurler.html", "use": "@vercel/static" },
+    { "src": "wwwroot/**/*", "use": "@vercel/static" }
+  ]
+}

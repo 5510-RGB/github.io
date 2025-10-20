@@ -1,0 +1,16 @@
+# Exclude server-side and build artifacts; deploy only static assets
+bin/
+obj/
+.vs/
+Properties/
+Controllers/
+Models/
+Views/
+publish/
+*.csproj
+*.sln
+Program.cs
+appsettings*.json
+README.md
+docs/
+templates/
